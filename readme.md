@@ -50,7 +50,7 @@ function loadUserinfo(userId) {
       }
     },
     // 第一个type的action载体
-    payload: {key, value, attempting: true},
+    payload: {userId, attempting: true},
     // 是否强制更新，如果为false，则使用cache
     forceUpdate: false
   }

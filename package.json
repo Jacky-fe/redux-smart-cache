@@ -1,6 +1,6 @@
 {
   "name": "redux-smart-cache",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "auto put data in cache by state key, and you can manage cache duetime by config",
   "main": "index.js",
   "scripts": {
