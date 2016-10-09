@@ -1,0 +1,26 @@
+{
+  "name": "redux-smart-cache",
+  "version": "0.0.1",
+  "description": "auto put data in cache by state key, and you can manage cache duetime by config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jacky-fe/redux-smart-cache.git"
+  },
+  "keywords": [
+    "redux",
+    "smart",
+    "cache",
+    "persist",
+    "buffer"
+  ],
+  "author": "jackyfe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jacky-fe/redux-smart-cache/issues"
+  },
+  "homepage": "https://github.com/Jacky-fe/redux-smart-cache#readme"
+}
