@@ -1,8 +1,3 @@
-redux-smart-cache 是一个基于state的key-value缓存中间件
-通过检测action影响了哪个State，自动将其缓存。
-项目中必须使用了combineReucers方法配置了reducer和statekey之间的关系
-适合对redux比较熟悉的人使用，如果不清楚redux，请先学习redux
-
 ### 安装:
 
 ```
